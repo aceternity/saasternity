@@ -21,3 +21,4 @@ An open source SaaS boilerplate (starter kit) for building your next SaaS applic
 - [ ] Analytics (PostHog)
 - [ ] Organizations
 - [ ] Transactional emails (Resend, Mailgun)
+- [ ] CMS for managing content (Strapi, MDX)
