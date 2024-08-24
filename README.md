@@ -7,7 +7,7 @@ An open source SaaS boilerplate (starter kit) for building your next SaaS applic
 ## Checklist
 
 - [ ] Landing Page
-- [ ] Authentication with NextAuth
+- [ ] Authentication (NextAuth, Clerk)
 - [ ] Protected Routes and Pages
 - [ ] Dashboard
 - [ ] Billing (Stripe and Lemon Squeezy)
